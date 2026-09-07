@@ -1,10 +1,10 @@
 {
-  "name": "Blockwild Survival",
+  "name": "Blockwild Survival v3",
   "short_name": "Blockwild",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0c1016",
   "theme_color": "#0c1016",
   "orientation": "landscape",
-  "description": "A seeded voxel survival sandbox prototype."
+  "description": "A persistent seeded voxel survival sandbox prototype for Safari."
 }
